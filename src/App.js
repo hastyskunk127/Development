@@ -73,7 +73,7 @@ function App() {
           <ControlPanel period={timePeriod} setTime={setTimePeriod} gender={gender}
           setGender={setGender} sort={sortType} setSort={setSort} favoriteOn={favoriteOn} 
           setFavoriteOn={setFavoriteOn} favorites={favorites}/>
-        </div>
+      </div>
         <div className="Pharaohs">
           {filteredData.map((pharaoh, index) => (
             <PharaohCard item={pharaoh} key={index} period={timePeriod} favorites={favorites} 
