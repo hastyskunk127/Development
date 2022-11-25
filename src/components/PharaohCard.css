@@ -1,0 +1,12 @@
+.PharaohCard {
+    flex: 0 0 55%;
+}
+.card {
+    background-color: black;
+    color: white;
+    margin: 2rem;
+}
+
+.link {
+    margin-bottom: 2rem;
+}

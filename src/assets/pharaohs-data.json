@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Khasekhemwy",
+        "gender": "Male",
+        "image" : "images/khasekhemwy.jpg",
+        "startRule": "c. 2690 BCE",
+        "timePeriod": "Archaic",
+        "ruleDuration": 18,
+        "description" : "Khasekhemwy is normally placed as the successor of Seth-Peribsen, though some Egyptologists believe that another Pharaoh, Khasekhem, ruled between them. He ended the infighting of the Second dynasty and reunited Egypt. Khasekhemwy is unique in Egyptian history as having both the symbols of Horus and Set on his serekh. He was the earliest Egyptian king known to have built statues of himself.",
+        "wikiLink" : "https://en.wikipedia.org/wiki/Khasekhemwy"
+    },
+    {
+        "name": "Djoser",
+        "gender": "Male",
+        "image": "images/djoser.jpg",
+        "startRule" : "c. 2686 BCE",
+        "timePeriod": "Old Kingdom",
+        "ruleDuration": 29,
+        "description": "Djoser was an ancient Egyptian pharaoh of the 3rd Dynasty during the Old Kingdom, and was the founder of that epoch.  Djoser is known for his step pyramid, which is the earliest colossal stone building in ancient Egypt.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Djoser"
+    },
+    {
+        "name" : "Sneferu",
+        "gender": "Male",
+        "image": "images/sneferu.jpg",
+        "startRule": "c. 2600 BCE",
+        "timePeriod": "Old Kingdom",
+        "ruleDuration": 48,
+        "description": "Sneferu was the founding pharaoh of the Fourth Dynasty of Egypt during the Old Kingdom. He built at least three pyramids that survive to this day and introduced major innovations in the design and construction of pyramids.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sneferu"
+    },
+    {
+        "name": "Khufu",
+        "gender": "Male",
+        "image": "images/khufu.jpg",
+        "startRule": "c. 2589 BCE",
+        "timePeriod": "Old Kingdom",
+        "ruleDuration": 46,
+        "description": "Khufu was an ancient Egyptian monarch who was the second pharaoh of the Fourth Dynasty, in the first half of the Old Kingdom period (26th century BC). He is generally accepted as having commissioned the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World, but many other aspects of his reign are poorly documented.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Khufu"
+    },
+    {
+        "name": "Khafre",
+        "gender": "Male",
+        "image": "images/khafre.jpg",
+        "startRule": "c. 2570 BCE",
+        "timePeriod": "Old Kingdom",
+        "ruleDuration": 26,
+        "description": "Khafre was an ancient Egyptian King (pharaoh) of the 4th Dynasty during the Old Kingdom. Khafre was the builder who made the second largest pyramid of Giza. The view held by modern Egyptology at large continues to be that the Great Sphinx was built in approximately 2500 BC for Khafre.[2] Not much is known about Khafre, except from the reports of Herodotus, writing 2,000 years after his life.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Khafre"
+    },
+    {
+        "name": "Senusret I",
+        "gender": "Male",
+        "image": "images/senusret.jpg",
+        "startRule":"c. 1971 BCE",
+        "timePeriod": "Middle Kingdom",
+        "ruleDuration": 45,
+        "description": "Senusret I was the second pharaoh of the Twelfth Dynasty of Egypt. He ruled from 1971 BC to 1926 BC and was one of the most powerful kings of this Dynasty. He was the son of Amenemhat I. He expanded Egypt that allowed him to rule over an age of prosperity.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Senusret_I"
+    },
+    {
+        "name": "Ahmose I",
+        "gender": "Male",
+        "image": "images/ahmose.jpg",
+        "startRule": "c. 1550 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 25,
+        "description": "Ahmose I was a pharaoh and founder of the Eighteenth Dynasty of Egypt. During the reign of his father or grandfather, Thebes rebelled against the Hyksos, the rulers of Lower Egypt. When he was seven years old, his father was killed, and he was about ten when his brother died of unknown causes after reigning only three years. Ahmose I assumed the throne after the death of his brother, and upon coronation became known as nb-pḥtj-rꜥ 'The Lord of Strength is Ra'.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ahmose_I"
+    },
+    {
+        "name": "Sobekneferu",
+        "gender": "Female",
+        "image": "images/sobekneferu.jpg",
+        "startRule": "c. 1805 BCE",
+        "timePeriod": "Middle Kingdom",
+        "ruleDuration": 3,
+        "description": "Sobekneferu was a pharaoh of ancient Egypt and the last ruler of the Twelfth Dynasty of the Middle Kingdom. She ascended to the throne following the death of Amenemhat IV, possibly her brother or husband, though their relationship is unproven. Instead, she asserted legitimacy through her father Amenemhat III. She adopted the full royal titulary, distinguishing herself from prior female rulers. She was also the first ruler to have a name associated with the crocodile god Sobek.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sobekneferu"
+    },
+    {
+        "name": "Hatshepsut",
+        "gender": "Female",
+        "image": "images/hatshepsut.jpg",
+        "startRule": "c. 1479 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 21,
+        "description": "Hatshepsut was the fifth pharaoh of the Eighteenth Dynasty of Egypt. She was the second historically confirmed female pharaoh, after Sobekneferu. (Various other women may have also ruled as pharaohs or at least regents before Hatshepsut, as early as Neithhotep around 1,600 years prior.)",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hatshepsut"
+    },
+    {
+        "name": "Thutmose III",
+        "gender": "Male",
+        "image": "images/thutmose.jpg",
+        "startRule": "c. 1479 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 53,
+        "description": "Thutmose III was the sixth pharaoh of the Eighteenth Dynasty. Officially, Thutmose III ruled Egypt for almost 54 years and his reign is usually dated from 28 April 1479 BC to 11 March 1425 BC, from the age of two and until his death at age fifty-six; however, during the first 22 years of his reign, he was coregent with his stepmother and aunt, Hatshepsut, who was named the pharaoh. Becoming the sole ruling pharaoh of the kingdom after the deaths of Thutmose II and Hatshepsut, he created the largest empire Egypt had ever seen; no fewer than 17 campaigns were conducted and he conquered lands from Syria to Upper Nubia.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Thutmose_III"
+    },
+    {
+        "name": "Amenhotep III",
+        "gender": "Male",
+        "image": "images/amenhotep.jpg",
+        "startRule": "c. 1391 BCE",
+        "timePeriod" : "New Kingdom",
+        "ruleDuration": 38,
+        "description": "Amenhotep III was the ninth pharaoh of the Eighteenth Dynasty. According to different authors, he ruled Egypt from June 1386 to 1349 BC, or from June 1388 BC to December 1351 BC/1350 BC, after his father Thutmose IV died. His reign was a period of unprecedented prosperity and splendour, when Egypt reached the peak of its artistic and international power.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Amenhotep_III"
+    },
+    {
+        "name": "Akhenaten",
+        "gender": "Male",
+        "image": "images/akhenaten.jpg",
+        "startRule": "c. 1353 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 17,
+        "description": "Akhenaten was the tenth ruler of the Eighteenth Dynasty. As a pharaoh, Akhenaten is noted for abandoning Egypt's traditional polytheism and introducing Atenism, or worship centered around Aten. The views of Egyptologists differ as to whether the religious policy was absolutely monotheistic, or whether it was monolatry, syncretistic, or henotheistic. This culture shift away from traditional religion was reversed after his death. Akhenaten's monuments were dismantled and hidden, his statues were destroyed, and his name excluded from lists of rulers compiled by later pharaohs.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Akhenaten"
+    },
+    {
+        "name": "Tutankhamun",
+        "gender": "Male",
+        "image": "images/tutankhamun.jpg",
+        "startRule": "c. 1332 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 10,
+        "description": "Tutankhamun was an Egyptian pharaoh who was the last of his royal family to rule during the end of the 18th Dynasty (ruled c. 1332 – 1323 BC in the conventional chronology) during the New Kingdom of Egyptian history. Tutankhamun restored the Ancient Egyptian religion after its dissolution by his father, enriched and endowed the priestly orders of two important cults, and began restoring old monuments damaged during the previous Amarna period. The 1922 discovery by Howard Carter of Tutankhamun's nearly intact tomb, in excavations funded by Lord Carnarvon,[9] received worldwide press coverage.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Tutankhamun"
+    },
+    {
+        "name": "Ramesses II",
+        "gender": "Male",
+        "image": "images/ramesses.jpg",
+        "startRule": "c. 1303 BCE",
+        "timePeriod": "New Kingdom",
+        "ruleDuration": 66,
+        "description": "Ramesses II, commonly known as Ramesses the Great, was the third pharaoh of the Nineteenth Dynasty of Egypt. Along with Thutmose III he is often regarded as the greatest, most celebrated, and most powerful pharaoh of the New Kingdom, itself the most powerful period of Ancient Egypt.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ramesses_II"
+    },
+    {
+        "name": "Cleopatra",
+        "gender": "Female",
+        "image": "images/cleopatra.jpg",
+        "startRule": "c. 51 BCE",
+        "timePeriod": "Hellenistic Kingdom",
+        "ruleDuration": 21,
+        "description": "Cleopatra VII Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and its last active ruler. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great.[note 6] After the death of Cleopatra, Egypt became a province of the Roman Empire, marking the end of the second to last Hellenistic state and the age that had lasted since the reign of Alexander (336–323 BC). Her native language was Koine Greek, and she was the only Ptolemaic ruler to learn the Egyptian language.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Cleopatra"
+    }
+]
