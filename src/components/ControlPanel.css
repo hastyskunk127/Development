@@ -1,0 +1,15 @@
+.panel {
+    background-color: rgb(72, 72, 72);
+    padding: 1em;
+    margin: 1rem;
+    color: white;
+    font-size: 1.5rem;
+    text-align: left;
+    flex: 0 0 34%;
+    width: auto;
+}
+.container {
+    margin-left: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
